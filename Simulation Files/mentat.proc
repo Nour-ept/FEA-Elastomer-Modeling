@@ -1,0 +1,21 @@
+| Created by Marc Mentat 2020 (64bit)
+*prog_option compatibility:prog_version:ment2020
+*prog_analysis_class structural
+*prog_use_current_job on
+*set_default_length_unit millimeter
+*set_model_length_unit millimeter
+|
+*open_model "c:\users\lenovo\desktop\stage marc\fea\odgen3.mud"
+*fill_view
+@main(results) *post_open_default
+*post_contour_bands
+*post_value Displacement Z
+*post_monitor
+*model_orientation_back
+*model_orientation_left
+*post_rewind
+*post_monitor
+*post_close
+*edit_mater material1
+
+*quit yes
