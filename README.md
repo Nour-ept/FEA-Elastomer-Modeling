@@ -39,6 +39,6 @@ To run the simulations and follow the analysis, you will need:
 ### Report and Documentation
 For more details about the project, including the theoretical background and results, refer to the Internship Report:
 
-- [Internship Report - Modeling of Elastomer Material under Uniaxial Stress](./Internship_Report.pdf)
+- [Internship Report - Modeling of Elastomer Material under Uniaxial Stress](Internship Report.pdf)
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
