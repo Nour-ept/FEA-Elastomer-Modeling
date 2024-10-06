@@ -1,0 +1,101 @@
+Marc Mentat (C)Copyright 1994-2020, MSC Software Corporation, all rights reserved
+Command > *open_model "c:\users\lenovo\desktop\stage marc\fea\odgen3.mud"
+File has been written by Mentat 2020.
+Model file c:\users\lenovo\desktop\stage marc\fea\odgen3.mud opened for reading.
+Model c:\users\lenovo\desktop\stage marc\fea\odgen3 opened.
+Command > *fill_view
+Command > @main(results) *post_open_default
+Number of increments detected : 41
+Command > *post_contour_bands
+Command > *post_value Displacement Z
+Enter post variable : *post_monitor
+Post increment 1:0
+Post increment 2:0
+Post increment 3:0
+Post increment 4:0
+Post increment 5:0
+Post increment 6:0
+Post increment 7:0
+Post increment 8:0
+Post increment 9:0
+Post increment 10:0
+Post increment 11:0
+Post increment 12:0
+Post increment 13:0
+Post increment 14:0
+Post increment 15:0
+Post increment 16:0
+Post increment 17:0
+Post increment 18:0
+Post increment 19:0
+Post increment 20:0
+Post increment 21:0
+Post increment 22:0
+Post increment 23:0
+Post increment 24:0
+Post increment 25:0
+Post increment 26:0
+Post increment 27:0
+Post increment 28:0
+Post increment 29:0
+Post increment 30:0
+Post increment 31:0
+Post increment 32:0
+Post increment 33:0
+Post increment 34:0
+Post increment 35:0
+Post increment 36:0
+Post increment 37:0
+Post increment 38:0
+Post increment 39:0
+Post increment 40:0
+End of analysis!
+Command > *model_orientation_back
+Command > *model_orientation_left
+Command > *post_rewind
+Command > *post_monitor
+Post increment 1:0
+Post increment 2:0
+Post increment 3:0
+Post increment 4:0
+Post increment 5:0
+Post increment 6:0
+Post increment 7:0
+Post increment 8:0
+Post increment 9:0
+Post increment 10:0
+Post increment 11:0
+Post increment 12:0
+Post increment 13:0
+Post increment 14:0
+Post increment 15:0
+Post increment 16:0
+Post increment 17:0
+Post increment 18:0
+Post increment 19:0
+Post increment 20:0
+Post increment 21:0
+Post increment 22:0
+Post increment 23:0
+Post increment 24:0
+Post increment 25:0
+Post increment 26:0
+Post increment 27:0
+Post increment 28:0
+Post increment 29:0
+Post increment 30:0
+Post increment 31:0
+Post increment 32:0
+Post increment 33:0
+Post increment 34:0
+Post increment 35:0
+Post increment 36:0
+Post increment 37:0
+Post increment 38:0
+Post increment 39:0
+Post increment 40:0
+End of analysis!
+Command > *post_close
+Command > *edit_mater material1
+Enter material name : 
+Command > *quit yes

@@ -1,0 +1,2849 @@
+ 
+Program name         : marc  
+Job ID               : C:\Users\LENOVO\Desktop\Stage Marc\FEA\odgen3_job1   
+Version type         : i8  
+User subroutine name :   
+User objects/libs    :   
+Restart file job ID  :    
+Substructure file ID :    
+Post file job ID     :    
+Defaults file ID     :    
+View factor file ID  :    
+Save generated module: no 
+MPI library          : intelmpi 
+Contact decoupling   : 0 
+DDM processes        :  
+Element loop threads :  
+Solver processes     :  
+Solver threads       :  
+GPGPU option         :  
+Host file            :    
+Distributed i/o      :    
+Run directory        : C:\Users\LENOVO\Desktop\Stage Marc\FEA 
+Scratch directory    : C:\Users\LENOVO\Desktop\Stage Marc\FEA 
+Default bin directory: C:\Program Files\MSC.Software\Marc\2020.0.0\marc2020\bin\win64i8 
+Material database    : C:\Program Files\MSC.Software\Marc\2020.0.0\marc2020\AF_flowmat\  
+  
+ 
+12/09/2024 
+16:14
+ 
+ Marc odgen3_job1 begins execution
+
+     (c) COPYRIGHT 2020 MSC Software Corporation, all rights reserved
+
+
+ Requested number of element threads                     =    1
+ Requested number of solver threads                      =    1
+
+
+ VERSION: Marc 2020, build 743940 (2020/07/14)
+
+
+
+     Date: Thu Sep 12 16:14:40 2024
+
+                              Marc execution begins
+ Date:          Thu Sep 12 16:14:40 2024
+ MSC Id:        0a0027000013 (ethernet) (Intel)
+ Hostname:      DESKTOP-Q6C5QAH (user NOUR, display DESKTOP-Q6C5QAH)
+ License files: 27500@DESKTOP-Q6C5QAH
+ CEID:          71016C3C-479A425A
+ User:          NOUR
+ Display:       DESKTOP-Q6C5QAH
+ LAPI Version:  LAPI 10.6.6 (CL 725511) (FLEXlm 11.16.3.0)
+Acquired 1 license for Marc from license server on host DESKTOP-Q6C5QAH
+
+
+             general memory initially set to =        25 MByte
+
+             maximum available memory set to =      7975 MByte
+
+             general memory increasing from      25 MByte to     106 MByte
+
+   MSC Customer Entitlement ID
+        71016C3C-479A425A
+
+             wall time =           1.00
+
+             wall time =           1.00
+
+
+             Number of warning messages is 0
+
+             total  memory =          134  MByte
+
+             e n d   o f   i n c r e m e n t       0
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       1
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7817E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 1
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6808E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  2 is equal to    9.780E-04
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.956E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 2
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       1
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       2
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6785E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 3
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5488E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  2 is equal to    1.114E-03
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   2.229E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 4
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       2
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       3
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5460E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 5
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3816E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  2 is equal to    1.279E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   2.558E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 6
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       3
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       4
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3781E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 7
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1717E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    1.479E-03
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   2.959E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 8
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       4
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       5
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1675E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 9
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.9098E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.727E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   3.454E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 10
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       5
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       6
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.9047E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 11
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.5830E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    2.037E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   4.074E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 12
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       6
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       7
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.5770E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 13
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.1739E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    2.431E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   4.861E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 14
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       7
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       8
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.1667E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    5.000E-02
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    5.000E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 15
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    5.6566E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    2.940E-03
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    5.063E-02
+             displacement convergence ratio   5.805E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 16
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       8
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t       9
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    5.6482E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    5.378E-02
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    5.378E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 17
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    4.9912E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    3.611E-03
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    5.739E-02
+             displacement convergence ratio   6.292E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 18
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t       9
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      10
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    4.9816E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    6.128E-02
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    6.128E-02
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 19
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    4.1105E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    4.519E-03
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    6.580E-02
+             displacement convergence ratio   6.868E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 20
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      10
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      11
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    4.1001E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    1.767E-01
+             maximum displacement increment at node         8 degree of freedom  1 is equal to    1.767E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 21
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.0059E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    2.736E-02
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    1.494E-01
+             displacement convergence ratio   1.832E-01
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 22
+
+             start of assembly     cycle number is     2
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    5.9234E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.006E-04
+             maximum displacement increment at node         8 degree of freedom  1 is equal to    1.493E-01
+             displacement convergence ratio   6.743E-04
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 23
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      11
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      12
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    5.9230E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.265E-01
+             maximum displacement increment at node         7 degree of freedom  1 is equal to    1.265E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 24
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.9516E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.624E-02
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.299E-01
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 25
+
+             start of assembly     cycle number is     2
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.9048E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    3.856E-05
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   3.084E-04
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 26
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      12
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      13
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    6.9047E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 27
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4934E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.055E-02
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   8.439E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 28
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      13
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      14
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4668E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 29
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7964E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    7.303E-03
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   5.843E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 30
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      14
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      15
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7816E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 31
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9484E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    5.302E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   4.242E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 32
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      15
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      16
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9407E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 33
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    8.0033E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    3.992E-03
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   3.194E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 34
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      16
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      17
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9999E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 35
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9965E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    3.094E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   2.475E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 36
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      17
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      18
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9956E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 37
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9517E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    2.456E-03
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.964E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 38
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      18
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      19
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9522E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 39
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8847E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    1.987E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.590E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 40
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      19
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      20
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8861E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 41
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8062E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    1.635E-03
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.308E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 42
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      20
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      21
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8081E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 43
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7230E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    1.365E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.092E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 44
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      21
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      22
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7252E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 45
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6397E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    1.153E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   9.222E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 46
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      22
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      23
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6420E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 47
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5589E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    9.842E-04
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   7.874E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 48
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      23
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      24
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5611E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 49
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4820E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    8.483E-04
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   6.786E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 50
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      24
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      25
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4843E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 51
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4099E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    7.373E-04
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   5.898E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 52
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      25
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      26
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.4121E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 53
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3428E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    6.456E-04
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   5.164E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 54
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      26
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      27
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3449E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 55
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2806E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    5.691E-04
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   4.553E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 56
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      27
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      28
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2827E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 57
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2232E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    5.047E-04
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   4.038E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 58
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      28
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      29
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2252E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 59
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1703E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    4.501E-04
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   3.601E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 60
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      29
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      30
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1721E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    1.250E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 61
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1213E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  2 is equal to    4.034E-04
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    1.250E-01
+             displacement convergence ratio   3.227E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 62
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      30
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      31
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1231E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 63
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.1995E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  1 is equal to    1.019E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   5.093E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 64
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      31
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      32
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2035E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 65
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2906E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    1.215E-03
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   6.077E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 66
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      32
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      33
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.2947E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 67
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3940E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         1 degree of freedom  2 is equal to    1.470E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   7.350E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 68
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      33
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      34
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.3982E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 69
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5102E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  2 is equal to    1.806E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   9.029E-03
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 70
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      34
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      35
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.5145E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         8 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 71
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6379E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  1 is equal to    2.260E-03
+             maximum displacement increment at node         8 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.130E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 72
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      35
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      36
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.6419E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 73
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7719E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  2 is equal to    2.891E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.446E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 74
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      36
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      37
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.7752E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         2 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 75
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8990E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         5 degree of freedom  1 is equal to    3.801E-03
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.901E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 76
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      37
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      38
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9005E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 77
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9916E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  2 is equal to    5.168E-03
+             maximum displacement increment at node         2 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   2.584E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 78
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      38
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      39
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9894E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         4 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 79
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9952E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  2 is equal to    7.337E-03
+             maximum displacement increment at node         4 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   3.669E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 80
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      39
+             wall time =           1.00
+
+
+
+
+             s t a r t   o f   i n c r e m e n t      40
+
+             start of assembly     cycle number is     0
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.9855E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         6 degree of freedom  3 is equal to    2.000E-01
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   1.000E+00
+
+             failure to converge to tolerance
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             increment will be recycled
+
+             Number of warning messages is 81
+
+             start of assembly     cycle number is     1
+             wall time =           1.00
+
+
+
+             start of matrix solution
+             wall time =           1.00
+
+
+
+             singularity ratio    7.8060E-01
+
+
+             end of matrix solution
+             wall time =           1.00
+
+             *** warning - No residual forces present. Test automatically satisfied.
+
+             maximum displacement  change   at node         7 degree of freedom  1 is equal to    1.103E-02
+             maximum displacement increment at node         6 degree of freedom  3 is equal to    2.000E-01
+             displacement convergence ratio   5.517E-02
+
+             fraction of total increment reached (iterative penetration check)   1.000000
+
+             Number of warning messages is 82
+
+             total  memory =          142  MByte
+
+             e n d   o f   i n c r e m e n t      40
+             wall time =           1.00
+
+Returned 1 license for Marc
+
+
+             memory usage:                       MByte       words  % of total
+
+              within general memory:           
+               element stiffness matrices:           0       49528         0.1
+               solver: first part                    0        1872         0.0
+               overallocation initial allocation   107    27947988        75.3
+               other:                                0        4476         0.0
+              allocated separately:
+               incremental backup:                   0       54422         0.1
+               solver 8                              8     1999738         5.4
+               nodal vectors:                        0        2126         0.0
+               defined sets:                         0         346         0.0
+               contact:                              0       14934         0.0
+               transformations:                      0        2076         0.0
+               kinematic boundary conditions:        0        2336         0.0
+               tables:                               0         106         0.0
+               points, curves and surfaces:          0          88         0.0
+               mem_none:                             0       24478         0.1
+               element storage:                      0        2494         0.0
+               material properties:                  0        4858         0.0
+               executable and common blocks:        27     7000000        18.9
+               miscellaneous                         0         210         0.0
+               ---------------------------------------------------------------
+               total:                              142    37112076
+
+               general memory allocated:           107    28003864
+               general memory used:                  0       55876
+
+               peak memory usage:                  159    41557520
+
+
+             timing information:                             wall time      cpu time
+
+               total time for input:                              0.02          0.02
+               total time for stiffness matrix assembly:          0.02          0.02
+               total time for mass matrix assembly:               0.00          0.00
+               total time for stress recovery:                    0.02          0.00
+               total time for matrix solution:                    0.22          0.16
+               total time for contact:                            0.03          0.00
+               total time for output:                             0.11          0.14
+               total time for miscellaneous:                      0.61          0.41
+               ---------------------------------------------------------------------
+               total time:                                        1.02          0.73
+
+
+             **************************************************************************
+
+
+             
+             This is a successful completion to a Marc simulation,
+             indicating that no additional incremental data was
+             found and that the analysis is complete.
+             
+
+
+
+
+             **************************************************************************
+
+
+
+
+
+                                        Marc 2020
+
+                                        Number of warning messages is 82
+
+                                        Exit number 3004
